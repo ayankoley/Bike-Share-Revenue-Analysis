@@ -1,7 +1,7 @@
-Toman Bike Share Dashboard
+#Toman Bike Share Dashboard
 This repository contains the files and documentation for the "Toman Bike Share Dashboard" project. The goal of this project was to create a comprehensive business intelligence dashboard to visualize key performance metrics and support data-driven decision-making for the Toman Bike Share company.
 
-Project Overview
+#Project Overview
 This is an end-to-end data analysis project that involved data handling, analysis, and visualization. The process included:
 
 Data Source Analysis: Accessing and managing the company's databases.
@@ -10,14 +10,14 @@ Data Cleaning and Preparation: Using a combination of SQL and Excel to clean, tr
 
 Data Modeling and Visualization: Developing an interactive and visually appealing dashboard using Power BI to present key insights.
 
-Tools and Technologies
+#Tools and Technologies
 SQL & SQL Server Management Studio (SSMS): Used for database queries, management, and initial data extraction.
 
 Microsoft Excel: Utilized for detailed data manipulation, cleaning, and preparation.
 
 Power BI: The primary tool for creating the interactive dashboard, data modeling, and visualization.
 
-Key Features of the Dashboard
+#Key Features of the Dashboard
 The dashboard provides the following key insights:
 
 Hourly Revenue Analysis: Visualization of revenue performance on an hourly basis to identify peak usage times.
@@ -28,7 +28,7 @@ Seasonal Revenue: Insight into how revenue fluctuates across different seasons.
 
 Rider Demographics: Breakdown of customer demographics to understand the user base.
 
-Conclusion and Recommendations
+#Conclusion and Recommendations
 Based on the analysis, a series of strategic recommendations were developed to optimize pricing and maximize revenue.
 
 Conservative Price Increase: Given the significant price increase in the previous year, a more conservative increase is recommended to avoid reaching a demand ceiling. A price increase in the range of 10-15% is suggested to test market elasticity without risking a substantial drop in customer volume.
